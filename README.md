@@ -10,3 +10,5 @@ Adapted from http://www.vwlowen.co.uk/arduino/AD9833-waveform-generator/AD9833-w
 
 
 ![poza](https://github.com/vlad-gheorghe/DDS-WITH-AD9833-ON-TFT-1-44-/blob/master/IMG_20200116_160415.jpg)
+
+![poza](https://github.com/vlad-gheorghe/DDS-WITH-AD9833-ON-TFT-1-44-/blob/master/IMG_20200127_145317.jpg)
